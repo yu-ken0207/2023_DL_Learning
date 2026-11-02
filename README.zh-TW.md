@@ -1,18 +1,17 @@
-# 2023DL_Assignments
+# 2023 深度學習課程作業
 
 [English](README.md) | **繁體中文**
 
-A2-1: Binary classification
+A2-1：二元分類
 
-A2-2: Multi class classification
+A2-2：多類別分類
 
-A3: Semi supervised flower classification
+A3：半監督式花卉分類
 
-A4: Self-supervised and transfer learning on CIFAR10
+A4：在 CIFAR10 上做自監督學習與遷移學習
 
-A5: YOLO object detection on PASCAL VOC
+A5：用 YOLO 在 PASCAL VOC 上做物件偵測
 
-A6: Text sentiment classification with prompt learning（沒有放在這個 repo）
+A6：用提示學習做文字情緒分類（沒有放在這個 repo）
 
-使用PyTorch完成過幾項深度學習作業，包括影像辨識和自然語言處理等項目。
-學會了如何構建、訓練和調整神經網路模型，並在特定任務上實現了顯著的性能改進。
+2023 年深度學習課程的作業，用 PyTorch 寫，內容包括影像辨識和自然語言處理。
